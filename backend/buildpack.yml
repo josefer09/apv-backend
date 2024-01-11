@@ -1,0 +1,5 @@
+buildpacks:
+  - paketo-buildpacks/ca-certificates@3.6.6
+  - paketo-buildpacks/node-engine@3.0.1
+  - paketo-buildpacks/procfile@5.6.7
+  # Agrega otros buildpacks según sea necesario
